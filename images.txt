@@ -6,7 +6,6 @@ alpine:latest
 portainer/portainer
 elasticsearch:8.13.4
 zoneminderhq/zoneminder:latest-ubuntu18.04
-consul
 prom/node-exporter
 prom/mysqld-exporter
 oliver006/redis_exporter
