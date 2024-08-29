@@ -6,5 +6,11 @@ alpine:latest
 portainer/portainer
 elasticsearch:8.13.4
 zoneminderhq/zoneminder:latest-ubuntu18.04
+consul:latest
+prom/node-exporter:latest
+prom/mysqld-exporter:latest
+oliver006/redis_exporter:latest
+prom/prometheus:latest
+grafana/grafana:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
