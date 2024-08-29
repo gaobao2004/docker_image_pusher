@@ -8,7 +8,8 @@
 #zoneminderhq/zoneminder:latest-ubuntu18.04
 #prom/node-exporter
 #prom/mysqld-exporter
-prom/alertmanager
+#prom/alertmanager
+google/cadvisor:latest
 #oliver006/redis_exporter
 #prom/prometheus
 #grafana/grafana
