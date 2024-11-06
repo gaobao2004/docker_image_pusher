@@ -13,5 +13,6 @@ google/cadvisor:latest
 #oliver006/redis_exporter
 #prom/prometheus
 #grafana/grafana
+redis:6.2.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
