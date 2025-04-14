@@ -12,7 +12,9 @@
 google/cadvisor:latest
 #oliver006/redis_exporter
 #prom/prometheus
-#grafana/grafana
-redis:6.2.1
+#grafana/grafana#
+#redis:6.2.1
+apache/kafka:4.0.0
+apache/kafka-native:4.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
